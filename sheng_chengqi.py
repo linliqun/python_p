@@ -14,3 +14,4 @@ while True:
     except StopIteration as e:
         print('Generation return value:',e.value)
         break
+ 
